@@ -18,7 +18,7 @@ Fork this repository.
 
 Clone it to your local machine.
 
-Follow the instructions in the [video]() to unpack and install the extension.
+Follow the instructions in the [video](https://www.linkedin.com/posts/nazeer18_ipl-cricket-chromeextension-activity-7189364469452419073-bYNR?utm_source=share&utm_medium=member_desktop) to unpack and install the extension.
 
 Enjoy staying updated with IPL action!
 
