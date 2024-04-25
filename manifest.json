@@ -1,0 +1,12 @@
+{
+    "name":"IPL View Extenstion",
+    "description":"IPL View Extenstion, a tool to view IPL data in a more user friendly way.",
+    "version":"1.0",
+    "manifest_version":3,
+    "author":"Shaik Nazeer",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"ipl.png",
+        "default_title":"IPL View Extenstion"
+    }
+}
